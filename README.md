@@ -1,2 +1,2 @@
-# Next
-Basic NEXT app for learning purposes
+# Full Stack Scaffold
+
